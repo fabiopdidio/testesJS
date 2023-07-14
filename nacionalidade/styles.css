@@ -1,0 +1,21 @@
+* {
+    font-family: monospace;
+    background-color: rebeccapurple;
+    text-align: center;
+    margin-top: 0 auto;
+    color: white;
+}
+
+input{
+    background-color: black;
+    color: white;
+}
+
+button {
+    border-radius: 20px;
+}
+
+div {
+    margin-top: 20px;
+    font-size: large;
+}
